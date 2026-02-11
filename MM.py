@@ -19,7 +19,7 @@ class HiddenPrints:
         sys.stdout = self._original_stdout
 
 
-def mm_index(p, x):
+def MM(p, x):
     # Receives dataset p, x and returns
     #   - MM Index
     #   - list of "misakes"
