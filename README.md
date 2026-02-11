@@ -1,6 +1,6 @@
 # rationality_indices
 
-Implementation of Several Indices of Economic Rationality.
+Implementation of Several Indices of Economic Rationality.<br>
 *For all programs to run correctly, it requires NumPy (https://numpy.org), Pandas (https://pandas.pydata.org/), Tarjan (https://pypi.org/project/tarjan/), NetworkX (https://networkx.org/), and Gurobi's GurobiPy (https://pypi.org/project/gurobipy/). Note that Gurobi offers free academic licenses.*
 
 Each method takes as input two N x K matrices, where N is the number of observations, and K is the number of goods:<br>
